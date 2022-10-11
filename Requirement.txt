@@ -1,0 +1,14 @@
+As5Unit1.py
+bs4, requests, datetime, re, csv, openpyxl
+
+As5Unit2.py
+argparse, csv, json, pandas, pathlib
+
+As6Unit1.py
+base64
+
+As6Unit2.py
+json, csv, os, sys
+
+As9Unit1.py
+os, sys, magic
