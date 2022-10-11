@@ -53,7 +53,7 @@ year = parserHtml(url).select('.date-listing a')[0].text                # 2022
 
 # soup3 = parserHtml(url).select('.tips-link h3 a')[0].get('href')
 
-curentRow = 1
+curentRow = 2
 
 if str(dt.year) == year:
     url2 = 'https://www.cisa.gov/uscert' + elem
